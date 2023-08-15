@@ -17,7 +17,7 @@ Connect with me! <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/ma
  <h3> About me 👨‍💻 </h3>
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="300"/>
 
-- 🎓 &nbsp; I am currently a Master's Engineering Mathematics student attending the University of Bristol. 
+- 🎓 &nbsp; I am  a Master's Engineering Mathematics graduate from the University of Bristol. 
 - ⚙️ &nbsp; Engineering Mathematic offers a mixture of general engineering, mathematics, computer science and data science.
 - 🛠 &nbsp; Throughout my academic career, I have developed a wide range of skills due to the versatility of my course, and  have applied such skills to formulate mathematical and computational solutions to real-life problems.
 - 💻 &nbsp; I have completed numerous projects in various programming language, main ones being Python and MATLAB and a couple in C. 
