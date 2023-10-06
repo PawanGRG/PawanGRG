@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/PawanGRG/PawanGRG/blob/main/Images/portfolio.png" />
+  <img src="https://github.com/PawanGRG/PawanGRG/blob/main/Images/imageedit_2_7002183402.png" />
 </p> 
 </div>
 <h2 align="center">
