@@ -1,7 +1,6 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=220&section=header&text=Hi,%20Welcome%20to%20my%20Portfolio!&fontSize=50&animation=fadeIn" />
+  <img src="https://github.com/PawanGRG/PawanGRG/blob/main/Images/portfolio.png" />
 </p> 
-
 </div>
 <h2 align="center">
 Connect with me! <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80"></h2>
